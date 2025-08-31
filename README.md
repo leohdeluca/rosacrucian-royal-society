@@ -10,19 +10,13 @@
 - Eliade, M. (1985). *A History of Religious Ideas, Volume 3: From Muhammad to the Age of Reforms*. University of Chicago Press.  
 - Godwin, J., McIntosh, C., & McIntosh, D. P. (2016). *Rosicrucian Trilogy: Modern translations of the three founding documents*. Weiser Books.  
 - Gunther, R. T. (Ed.). (1927). *The diary and will of Elias Ashmole*. Oxford: Oxford University Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1965). *The correspondence of Henry Oldenburg* (Vol. 1). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1966). *The correspondence of Henry Oldenburg* (Vol. 2). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1967). *The correspondence of Henry Oldenburg* (Vol. 3). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1968). *The correspondence of Henry Oldenburg* (Vol. 4). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1971). *The correspondence of Henry Oldenburg* (Vol. 5). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1973). *The correspondence of Henry Oldenburg* (Vol. 6). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1974). *The correspondence of Henry Oldenburg* (Vol. 7). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1975). *The correspondence of Henry Oldenburg* (Vol. 8). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1977). *The correspondence of Henry Oldenburg* (Vol. 9). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1979). *The correspondence of Henry Oldenburg* (Vol. 10). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1980). *The correspondence of Henry Oldenburg* (Vol. 11). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1983). *The correspondence of Henry Oldenburg* (Vol. 12). University of Wisconsin Press.  
-- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1986). *The correspondence of Henry Oldenburg* (Vol. 13). University of Wisconsin Press.   
+- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1965). *The correspondence of Henry Oldenburg:*  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1965). *The correspondence of Henry Oldenburg* (Vol. 1 - 1641-1662). University of Wisconsin Press.  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1966). *The correspondence of Henry Oldenburg* (Vol. 2 - 1663-1665). University of Wisconsin Press.  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1967). *The correspondence of Henry Oldenburg* (Vol. 3 - 1666-1667). University of Wisconsin Press.  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1968). *The correspondence of Henry Oldenburg* (Vol. 4 - 1668-1669). University of Wisconsin Press.  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1971). *The correspondence of Henry Oldenburg* (Vol. 5 - 1669-1670). University of Wisconsin Press.  
+  - Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1973). *The correspondence of Henry Oldenburg* (Vol. 6 - 1670-1671). University of Wisconsin Press.  
 - Hartley, H. (1960). *The Royal Society: Its origins and founders*. London: The Royal Society.  
 - Hill, C. (1980). *Intellectual origins of the English Revolution*. Oxford: Clarendon Press.  
 - Hoppen, K. T. (1976). The nature of the early Royal Society:  
