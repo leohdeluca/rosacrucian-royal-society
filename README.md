@@ -1,1 +1,29 @@
 # rosacrucian-royal-society
+
+## 📚 Bibliography
+
+- Åkerman, S. (1998). *Rose Cross over the Baltic: The spread of Rosicrucianism in Northern Europe*. Brill.  
+- Baddam, J. (Comp.). (1745). *Memoirs of the Royal Society; or, a new abridgement of the Philosophical Transactions, from 1665 to 1740* (Vol. 1, 2nd ed.). London.  
+- Boyle, R. (1772). *The works of the Honourable Robert Boyle: In six volumes. To which is prefixed The life of the author* (T. Birch, Ed.). London: J. and F. Rivington.  
+- Dickson, D. R. (1998). *The tessera of Antilia: Utopian brotherhoods and secret societies in the early seventeenth century*. Leiden: Brill.  
+- Edleston, J. (Ed.). (1850). *Correspondence of Sir Isaac Newton and Professor Cotes...*. London: John W. Parker; Cambridge: John Deighton.  
+- Eliade, M. (1985). *A History of Religious Ideas, Volume 3: From Muhammad to the Age of Reforms*. University of Chicago Press.  
+- Godwin, J., McIntosh, C., & McIntosh, D. P. (2016). *Rosicrucian Trilogy: Modern translations of the three founding documents*. Weiser Books.  
+- Gunther, R. T. (Ed.). (1927). *The diary and will of Elias Ashmole*. Oxford: Oxford University Press.  
+- Hall, A. R., & Hall, M. B. (Eds. & Trans.). (1965–1986). *The correspondence of Henry Oldenburg (1641–1671)*. Madison: University of Wisconsin Press.  
+- Hartley, H. (1960). *The Royal Society: Its origins and founders*. London: The Royal Society.  
+- Hill, C. (1980). *Intellectual origins of the English Revolution*. Oxford: Clarendon Press.  
+- Hoppen, K. T. (1976). The nature of the early Royal Society:  
+  - Part I. *The British Journal for the History of Science*, 9, 1–24.  
+  - Part II. *The British Journal for the History of Science*, 9, 243–273.  
+- Huffman, W. H. (Ed.). (2001). *Robert Fludd*. Berkeley, CA: North Atlantic Books.  
+- Hunter, M. (2017). *The image of Restoration science: The frontispiece to Thomas Sprat’s History of the Royal Society (1667)*. Routledge.  
+- Hutton, C., Shaw, G., & Pearson, R. (Eds.). (1809). *The Philosophical Transactions... from 1724 to 1734* (Vol. VII). London: C. & R. Baldwin.  
+- Josten, C. H. (Ed.). (1966). *Elias Ashmole (1617–1692)...* Vol. IV: Texts 1673–1701. Oxford: Clarendon Press.  
+- Lyons, H. G. (1944). *The Royal Society: 1660–1940*. Cambridge University Press.  
+- Purver, M. (1967). *The Royal Society: Concept and creation*. London: Routledge.  
+- Rattansi, P. M. (1968). *The intellectual origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 23, 129–143.  
+- Sprat, T. (1722). *The history of the Royal Society of London* (3rd ed., corr.). London: Samuel Chapman.  
+- Syfret, R. H. (1948). *The origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 5, 75–137.  
+- Yates, F. A. (2002). *The Rosicrucian Enlightenment*. London: Routledge.  
+- Yates, F. A. (1999). *Ideas and ideals in the North European Renaissance* (Vol. 10). London: Routledge.
