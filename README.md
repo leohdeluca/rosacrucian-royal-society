@@ -2,6 +2,7 @@
 
 ## 📚 Bibliography
 
+- Ashmole, E. (1715). *The history of the most noble Order of the Garter and the several orders of knighthood extant in Europe*. London: J. Macock for Nathanael Brooke. (Original work published 1672).
 - Åkerman, S. (1998). *Rose Cross over the Baltic: The spread of Rosicrucianism in Northern Europe*. Brill.  
 - Baddam, J. (Comp.). (1745). *Memoirs of the Royal Society; or, a new abridgement of the Philosophical Transactions, from 1665 to 1740* (Vol. 1, 2nd ed.). London.
 - Barlow, N. (1959). Erasmus Darwin, F.R.S. (1731–1802). *Notes and Records of the Royal Society of London*, *14*(2), 85–98.
@@ -30,13 +31,15 @@
 - Huffman, W. H. (Ed.). (2001). *Robert Fludd*. Berkeley, CA: North Atlantic Books.  
 - Hunter, M. (2017). *The image of Restoration science: The frontispiece to Thomas Sprat’s History of the Royal Society (1667)*. Routledge.  
 - Hutton, C., Shaw, G., & Pearson, R. (Eds.). (1809). *The Philosophical Transactions... from 1724 to 1734* (Vol. VII). London: C. & R. Baldwin.  
-- Josten, C. H. (Ed.). (1966). *Elias Ashmole (1617–1692)...* Vol. IV: Texts 1673–1701. Oxford: Clarendon Press.  
+- Josten, C. H. (Ed.). (1966). *Elias Ashmole (1617–1692)...* Vol. IV: Texts 1673–1701. Oxford: Clarendon Press.
+- Lomas, R. (2009). *The invisible college: The secret history of how the Royal Society came to be* Transworld Digital.
 - Lyons, H. G. (1944). *The Royal Society: 1660–1940*. Cambridge University Press.  
 - Merkel, I., & Debus, A. G. (Eds.). (1987). *Intellectual history and the occult in early modern Europe*. Brill.
 - Purver, M. (1967). *The Royal Society: Concept and creation*. London: Routledge.  
 - Rattansi, P. M. (1968). *The intellectual origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 23, 129–143.
 - Reese, A. W. (1984). *John Amos Comenius: His philosophical, religious and educational background* (Master’s thesis, University of Alberta). University of Alberta.
 - Royal Asiatic Society of Great Britain and Ireland. (1885). *The journal of the Royal Asiatic Society of Great Britain and Ireland* (New Series, Vol. 17). Trübner and Co.
+- Royal Society of London. (1839). *Philosophical transactions of the Royal Society of London: For the year 1839. Part I*. Richard and John E. Taylor.
 - Sprat, T. (1722). *The history of the Royal Society of London* (3rd ed., corr.). London: Samuel Chapman.  
 - Syfret, R. H. (1948). *The origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 5, 75–137.  
 - Yates, F. A. (2002). *The Rosicrucian Enlightenment*. London: Routledge.  
