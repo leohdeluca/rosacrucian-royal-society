@@ -3,9 +3,12 @@
 ## 📚 Bibliography
 
 - Åkerman, S. (1998). *Rose Cross over the Baltic: The spread of Rosicrucianism in Northern Europe*. Brill.  
-- Baddam, J. (Comp.). (1745). *Memoirs of the Royal Society; or, a new abridgement of the Philosophical Transactions, from 1665 to 1740* (Vol. 1, 2nd ed.). London.  
+- Baddam, J. (Comp.). (1745). *Memoirs of the Royal Society; or, a new abridgement of the Philosophical Transactions, from 1665 to 1740* (Vol. 1, 2nd ed.). London.
+- Barlow, N. (1959). Erasmus Darwin, F.R.S. (1731–1802). *Notes and Records of the Royal Society of London*, *14*(2), 85–98.
 - Boyle, R. (1772). *The works of the Honourable Robert Boyle: In six volumes. To which is prefixed The life of the author* (T. Birch, Ed.). London: J. and F. Rivington.
-- Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659)-Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659)
+- Buchanan-Brown, J. (1974). The books presented to the Royal Society by John Aubrey, F.R.S. *Notes and Records of the Royal Society of London*, *28*(2), 167–193. 
+- Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659)-Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659).
+- Comenius, J. A. (1668). *Via lucis, vestigata & vestiganda, h.e. Rationabilis disquisitio, quibus modis intellectualis animorum lux, sapientia, per omnes omnium hominum mentes & gentes, jam tandem sub mundi vesperam feliciter spargi possit: Libellus ante annos viginti sex in Anglia scriptus, nunc demum typis exscriptus & in Angliam remissus, Anno salutis humanae M. DC. LXVIII*. Amsterdam: Apud Christophorum Cunradum.
 - Dickson, D. R. (1997). Thomas Henshaw and Sir Robert Paston’s pursuit of the red elixir An early collaboration between fellows of the Royal Society. Notes and Records of the Royal Society of London, 51(1), 57–76.
 - Dickson, D. R. (1998). *The tessera of Antilia: Utopian brotherhoods and secret societies in the early seventeenth century*. Leiden: Brill.  
 - Edleston, J. (Ed.). (1850). *Correspondence of Sir Isaac Newton and Professor Cotes...*. London: John W. Parker; Cambridge: John Deighton.  
@@ -29,9 +32,13 @@
 - Hutton, C., Shaw, G., & Pearson, R. (Eds.). (1809). *The Philosophical Transactions... from 1724 to 1734* (Vol. VII). London: C. & R. Baldwin.  
 - Josten, C. H. (Ed.). (1966). *Elias Ashmole (1617–1692)...* Vol. IV: Texts 1673–1701. Oxford: Clarendon Press.  
 - Lyons, H. G. (1944). *The Royal Society: 1660–1940*. Cambridge University Press.  
+- Merkel, I., & Debus, A. G. (Eds.). (1987). *Intellectual history and the occult in early modern Europe*. Brill.
 - Purver, M. (1967). *The Royal Society: Concept and creation*. London: Routledge.  
-- Rattansi, P. M. (1968). *The intellectual origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 23, 129–143.  
+- Rattansi, P. M. (1968). *The intellectual origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 23, 129–143.
+- Reese, A. W. (1984). *John Amos Comenius: His philosophical, religious and educational background* (Master’s thesis, University of Alberta). University of Alberta.
+- Royal Asiatic Society of Great Britain and Ireland. (1885). *The journal of the Royal Asiatic Society of Great Britain and Ireland* (New Series, Vol. 17). Trübner and Co.
 - Sprat, T. (1722). *The history of the Royal Society of London* (3rd ed., corr.). London: Samuel Chapman.  
 - Syfret, R. H. (1948). *The origins of the Royal Society*. *Notes and Records of the Royal Society of London*, 5, 75–137.  
 - Yates, F. A. (2002). *The Rosicrucian Enlightenment*. London: Routledge.  
 - Yates, F. A. (1999). *Ideas and ideals in the North European Renaissance* (Vol. 10). London: Routledge.
+- Zuber, M. A., & Penman, L. T. I. (2020). Robert Boyle’s anonymous ‘Crosey-Crucian’ identified: The German alchemist and religious dissenter Peter Moritz. *Notes and Records: The Royal Society Journal of the History of Science*, *74*(1), 95–103.
