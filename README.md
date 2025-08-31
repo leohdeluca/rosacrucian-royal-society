@@ -4,7 +4,9 @@
 
 - Åkerman, S. (1998). *Rose Cross over the Baltic: The spread of Rosicrucianism in Northern Europe*. Brill.  
 - Baddam, J. (Comp.). (1745). *Memoirs of the Royal Society; or, a new abridgement of the Philosophical Transactions, from 1665 to 1740* (Vol. 1, 2nd ed.). London.  
-- Boyle, R. (1772). *The works of the Honourable Robert Boyle: In six volumes. To which is prefixed The life of the author* (T. Birch, Ed.). London: J. and F. Rivington.  
+- Boyle, R. (1772). *The works of the Honourable Robert Boyle: In six volumes. To which is prefixed The life of the author* (T. Birch, Ed.). London: J. and F. Rivington.
+- Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659)-Comenius, J. A. (1659/1967). *Orbis sensualium pictus* (C. Hoole, Trans.; M. W. Beller & W. S. Howell, Eds.). Charles Scribner’s Sons. (Original work published 1659)
+- Dickson, D. R. (1997). Thomas Henshaw and Sir Robert Paston’s pursuit of the red elixir An early collaboration between fellows of the Royal Society. Notes and Records of the Royal Society of London, 51(1), 57–76.
 - Dickson, D. R. (1998). *The tessera of Antilia: Utopian brotherhoods and secret societies in the early seventeenth century*. Leiden: Brill.  
 - Edleston, J. (Ed.). (1850). *Correspondence of Sir Isaac Newton and Professor Cotes...*. London: John W. Parker; Cambridge: John Deighton.  
 - Eliade, M. (1985). *A History of Religious Ideas, Volume 3: From Muhammad to the Age of Reforms*. University of Chicago Press.  
